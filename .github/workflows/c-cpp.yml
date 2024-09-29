@@ -14,14 +14,12 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: configure
-      run: 
-        chmod +x build.sh |
+      run: |
+        chmod +x build.sh
         sudo apt install gcc tree -y
       
-    - uses: actions/checkout@v4
     - name: build
       run: ./build.sh
 
-    - uses: actions/checkout@v4
     - name: check
       run: tree .

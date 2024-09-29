@@ -1,6 +1,7 @@
 # Алгоритмические основы обработки данных (Algorithmic foundations of data processing)
 
 [![C/C++ CI](https://github.com/0Nera/afdp/actions/workflows/c-cpp.yml/badge.svg?event=push)](https://github.com/0Nera/afdp/actions/workflows/c-cpp.yml)
+[![DONATE](https://img.shields.io/badge/boosty-tip-green)](https://boosty.to/synapseos)
 
 ## Описание курса
 
@@ -33,7 +34,7 @@
 
 ## Автор
 
-Арен Елчинян Артурович
+Арен Елчинян Артурович[Телеграм](https://t.me/nera00).
 
 ## Лицензия
 

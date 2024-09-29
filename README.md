@@ -1,5 +1,7 @@
 # Алгоритмические основы обработки данных (Algorithmic foundations of data processing)
 
+[![C/C++ CI](https://github.com/0Nera/afdp/actions/workflows/c-cpp.yml/badge.svg?event=push)](https://github.com/0Nera/afdp/actions/workflows/c-cpp.yml)
+
 ## Описание курса
 
 Этот репозиторий содержит материалы и реализации алгоритмов, изучаемых в курсе "Алгоритмические основы обработки данных" в РТУ МИРЭА. Каждая практическая работа организована в отдельной директории, пронумерованной от 1 до 11.
